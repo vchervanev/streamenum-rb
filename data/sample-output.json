@@ -1,0 +1,56 @@
+{
+  "id": [
+    "1",
+    "2",
+    "3"
+  ],
+  "num": [
+    "1",
+    "9"
+  ],
+  "str": [
+    "one",
+    "nine"
+  ],
+  "j_hash_str.a": [
+    "A",
+    "AA"
+  ],
+  "j_hash_str.b": [
+    "B",
+    "BB"
+  ],
+  "j_hash_array.a.[]": [
+    "A",
+    "AA"
+  ],
+  "j_hash_array.b.[]": [
+    "B",
+    "BB"
+  ],
+  "j_hash_bool.a": [
+    true,
+    false
+  ],
+  "j_hash_bool.b": [
+    false,
+    true
+  ],
+  "j_array_num.[]": [
+    1,
+    2,
+    3
+  ],
+  "j_array_hash.[].a": [
+    1,
+    11
+  ],
+  "j_array_hash.[].b": [
+    2,
+    22
+  ],
+  "j_deep.a.b.c.d": [
+    1,
+    2
+  ]
+}
